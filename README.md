@@ -77,7 +77,7 @@ One of the main things I learned was that packet captures can reveal details abo
 
 ## Screenshots
 
-I included well-labelled screenshots of the tasks solved in the `screenshots` folder.
+I included well-labelled screenshots of the tasks solved in the screenshots folder.
 
 ## Repository Structure
 ```text
